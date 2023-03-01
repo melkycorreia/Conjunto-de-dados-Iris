@@ -22,7 +22,7 @@ Como o conjunto de dados Iris é relativamente pequeno e bem compreendido, ele �
 
 Em resumo, o conjunto de dados Iris é uma ferramenta valiosa para a comunidade de ciência de dados e aprendizado de máquina. Ele nos permite explorar técnicas de análise de dados e classificação em um conjunto de dados bem compreendido e interessante.
 
-# Autor
+# Autor:
 
-# # Melky Correia
+# Melky Correia
 
