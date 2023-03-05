@@ -4,19 +4,20 @@ O conjunto de dados Íris é um dos conjuntos de dados mais populares em ciênci
 
 # Este conjunto de dados é frequentemente usado como um exemplo para demonstrar técnicas de análise de dados e classificação.
 
-# # Classificação de flores: 
+#  Classificação de flores: 
 
 Com base nas características medidas das flores, podemos treinar um modelo de aprendizado de máquina para prever a espécie de uma flor desconhecida. Isso é um exemplo de classificação de dados.
 
-# # Visualização de dados:
+# Visualização de dados:
 
 Podemos usar as quatro características do conjunto de dados Íris para criar visualizações interessantes, como gráficos de dispersão e diagramas de caixa. Isso nos ajuda a entender melhor as relações entre as diferentes características e as espécies de íris.
 
-# # Teste de algoritmos de aprendizado de máquina:
+# Teste de algoritmos de aprendizado de máquina:
 
 Como o conjunto de dados Iris é relativamente pequeno e bem compreendido, ele é frequentemente usado para testar algoritmos de aprendizado de máquina. Isso nos ajuda a entender como diferentes algoritmos de aprendizado de máquina funcionam e como eles podem ser ajustados para obter melhores resultados.
 
- ![Imagens do conjunto de dados Íris](conjunto_de_dados_Iris.jpg)
+ ![Foto de Regressão Linear](Gráfico de Regressão Linear.png)
+    
     
 
 
