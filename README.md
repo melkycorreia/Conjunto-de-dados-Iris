@@ -16,7 +16,7 @@ Podemos usar as quatro características do conjunto de dados Íris para criar vi
 
 Como o conjunto de dados Iris é relativamente pequeno e bem compreendido, ele é frequentemente usado para testar algoritmos de aprendizado de máquina. Isso nos ajuda a entender como diferentes algoritmos de aprendizado de máquina funcionam e como eles podem ser ajustados para obter melhores resultados.
 
- ![Foto de Regressão Linear](Gráfico de Regressão Linear.png)
+ ![Foto Conjunto de dados Íris](conjunto_de_dados_Iris.jpg)
     
     
 
